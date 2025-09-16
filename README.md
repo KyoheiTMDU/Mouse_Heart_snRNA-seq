@@ -24,7 +24,7 @@ We analyzed four publicly available GEO datasets:
 ## Environment
 - R version 4.4.3  
 - Key packages: Seurat 5.3.0, sctransform 0.4.2, tidyverse 2.0.0, RaceID 0.3.9, GSVA 2.0.7, AUCell 1.28.0, escape 1.0.2  
-- Full session information is provided in [`env/sessionInfo_2025-09-16.txt`](env/sessionInfo_2025-09-16.txt)
+- Full session information is provided in [sessionInfo_2025-09-16.txt](sessionInfo_2025-09-16.txt)
 
 ## Usage
 1. Obtain raw data from GEO and preprocess as described.  
