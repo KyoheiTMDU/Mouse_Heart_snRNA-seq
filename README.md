@@ -36,5 +36,6 @@ We analyzed four publicly available GEO datasets:
 MIT License (see `LICENSE`).
 
 ## Citation
-This repository will be archived on Zenodo with a DOI upon manuscript submission.  
-Please cite the corresponding DOI when using these scripts.
+This repository is archived on Zenodo: [DOI:10.5281/zenodo.17128993](https://doi.org/10.5281/zenodo.17128993).  
+Please cite this DOI when using these scripts.
+
