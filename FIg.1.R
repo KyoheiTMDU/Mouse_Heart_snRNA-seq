@@ -22,7 +22,7 @@ for (lib in optional_libs) {
 }
 
 # Set directories
-base_dir <- "/Users/fujitakyouhei/Desktop/Heart"
+base_dir <- "./Heart"
 annotation_dir <- file.path(base_dir, "annotation", "data")
 cm_dir <- file.path(base_dir, "CM_subset", "data")
 output_dir <- file.path(base_dir, "Figure1")
